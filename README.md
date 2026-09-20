@@ -20,10 +20,7 @@ Associate Software Engineer at **Geeks of Kolachi**.
 
 ## Stack
 
-**Languages:** Python, Java, JavaScript, SQL
-**Backend:** Django, FastAPI, Kafka, Celery, Docker, Elasticsearch
-**AI/ML:** LangChain, LangGraph, RAG, vector databases, PEFT, LoRA
-**Data:** PostgreSQL, MySQL, MongoDB
+Python first. FastAPI or Django for backends, LangChain and LangGraph when an LLM is involved, Postgres for data, Docker to ship it.
 
 ## Find me
 
