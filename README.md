@@ -3,9 +3,6 @@
 Software engineer in Karachi. I build smart stuff: machines slightly less clueless than humans.
 AI/ML, backend systems, intelligent automation. Production over slideware, measurable outcomes over hand-wavy diagrams.
 
-Associate Software Engineer at **Geeks of Kolachi**.
-
-**Operating principles:** useful over impressive. Shipped over hypothetical.
 
 ## Shipped
 
@@ -17,10 +14,6 @@ Associate Software Engineer at **Geeks of Kolachi**.
 | [TRNSIT-KOLACHI](https://github.com/ManzarAli25/TRNSIT-KOLACHI) | Public transit navigation for Karachi. |
 | [AgentRed](https://github.com/ManzarAli25/AgentRed) | LangGraph agents pull polarized Reddit threads, argue both sides, and a judge crowns the winner. |
 | LegalEase | Pakistani law advisory platform using LLMs and RAG (private). |
-
-## Stack
-
-Python first. FastAPI or Django for backends, LangChain and LangGraph when an LLM is involved, Postgres for data, Docker to ship it.
 
 ## Find me
 
